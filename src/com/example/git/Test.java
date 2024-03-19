@@ -1,6 +1,5 @@
 package com.example.git;
 
 public class Test {
-	// fast
-	//slow
+	// feature 1 updated by master
 }
